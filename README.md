@@ -7,7 +7,7 @@ Task 2 - To Explore Supervised Machine Learning
  
  - Find the working demo for the task on YT- https://youtu.be/DCEwu2iuP8k
  
-Task 3 - To Explore Unsupervised Machine Learning¶
+Task 3 - To Explore Unsupervised Machine Learning
  - From the given ‘Iris’ dataset, predict the optimum number of clusters and represent it visually. 
  
  - Find the working demo for the task on YT-
